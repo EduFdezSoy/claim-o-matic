@@ -1,0 +1,9 @@
+.notification {
+  position: absolute;
+  z-index: 10;
+  width: 100%;
+}
+
+.noti {
+  visibility: collapse;
+}
