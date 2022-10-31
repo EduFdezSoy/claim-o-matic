@@ -1,3 +1,5 @@
+I've been using this for like two years, now I've moved to something better, see you, space cowboy.
+___
 # claim-o-matic
 
 Just a form made with Bulma and Font Awesome and an "admin" page to list the entries and delete them.  
@@ -11,6 +13,6 @@ If you really liked it and feel like I deserve some money, you can buy me a [cof
 ## License  
 
 Released under a MIT License; see `LICENSE` for further details.  
-I will like to know what you do with this crap, if you ever use this for something.
+I will like to know what you do with this crap, if you ever use this for something write me at [yo@edufdez.es](mailto:yo@edufdez.es).
 
 &copy; 2021 Eduardo Fernandez
